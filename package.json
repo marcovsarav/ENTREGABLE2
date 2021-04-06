@@ -1,14 +1,16 @@
 {
-  "name": "entrega_2",
+  "name": "formulario",
   "version": "1.0.0",
-  "description": "",
   "main": "main.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "electron ."
   },
+  "keywords": [],
   "author": "",
   "license": "ISC",
-  "dependencies": {
-    "electron": "^12.0.2"
-  }
+  "devDependencies": {
+    "electron": "^11.3.0"
+  },
+  "dependencies": {},
+  "description": ""
 }
